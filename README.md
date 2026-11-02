@@ -16,6 +16,10 @@ Everything is processed locally. The information available depends on the replay
 
 [Detailed documentation](README-DETAILS.md) · [All releases](https://github.com/FajkPes/WoT-Replay-Viewer/releases)
 
+## Scope
+
+The viewer is for inspecting available battle metadata and result blocks locally. It is useful for reviewing a replay file when you want a readable summary; it does not replace the game client for watching the battle itself.
+
 ## Credits
 
 **Idea, concept and design:** FajkPes  
