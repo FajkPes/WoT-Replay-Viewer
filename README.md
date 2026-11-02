@@ -10,6 +10,6 @@ A local viewer for exploring information and results stored in World of Tanks re
 
 ## Get started
 
-Download the ZIP from Releases and open `replay-viewer.html`. This does not play back the 3D battle.
+Download the ZIP from Releases and open `replay-viewer.html`. This does not play back the 3D battle. The interface is currently in Czech.
 
 [Download a release](https://github.com/FajkPes/WoT-Replay-Viewer/releases) · [Detailed documentation](README-DETAILS.md)
