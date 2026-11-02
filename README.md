@@ -1,7 +1,15 @@
 # WoT Replay Viewer
 
-Lokální prohlížeč informací a výsledků z replayů World of Tanks. Otevřete **replay-viewer.html** v aktuálním Chrome nebo Edge a vyberte vlastní soubor `.wotreplay`. Není potřeba instalace ani server.
+A local viewer for exploring information and results stored in World of Tanks replay files.
 
-Aplikace čte data z replaye; nejde o herní 3D přehrávač. Rozsah dostupných výsledků závisí na verzi a obsahu souboru. Původní replay a osobní snímky obrazovky nejsou součástí veřejného vydání.
+## Key features
 
-Toto vydání je publikační snímek z 23. října 2026.
+- Open a `.wotreplay` file in your browser.
+- Inspect available battle metadata and results without uploading the replay.
+- Works as a single HTML file.
+
+## Get started
+
+Download the ZIP from Releases and open `replay-viewer.html`. This does not play back the 3D battle.
+
+[Download a release](https://github.com/FajkPes/WoT-Replay-Viewer/releases) · [Detailed documentation](README-DETAILS.md)
